@@ -1,0 +1,2 @@
+Welcome to the first lesson.
+No matter how good you are as a programmer, when learning a new language, the first program you write is likely to be "Hello World".
