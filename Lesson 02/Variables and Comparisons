@@ -1,0 +1,7 @@
+Lesson 02
+
+Variables are containers for "stuff".  They can contain different types of "stuff", for example numbers or strings of characters.
+At some point we're going to want to do comparisons between the stuff in box A vs box B.   
+For instance, seeing if the number in box A the same as the number in box B.
+
+This lesson looks at variables and how to compare them.
