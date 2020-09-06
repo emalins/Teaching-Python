@@ -1,0 +1,14 @@
+Variables are great, variables store our "stuff".  But if we've a load of stuff, we'd need a load of variables, we'd need a variable for every single thing.
+If we only used variables, we would need as many variables as we had bits of stuff.
+
+What if we have a lot of stuff that's pretty much all the same?  
+It'd be such a pain to curate hundreds of variables just to store a sequence of numbers where each might be bigger or smaller than the last.  
+What if we needed to know what the 1,009th number was?  We'd need keep yet another variable to store the index of the other ones.
+
+This is where lists come in.  
+
+Lists provide a structure; a means to access the contents of a variable based on its position vs the position of all the other variables.
+Need to know the 198th value?  No problem.  
+
+Lists also give us an introduction to images.  Images are just a big list of colour values and their positions compared to each other.  
+Images we'll cover soon, but master lists and you're already most of the way through images.
