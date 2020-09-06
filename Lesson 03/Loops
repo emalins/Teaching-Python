@@ -1,0 +1,5 @@
+In most programming languages, instructions are executed sequentially.
+In an exclusively sequential program, for a sequence of instructions to be performed repeatedly, this would result in a very long program.
+Loops provide a means of iterating over a defined set of instructions multiple times or until some kind of condition is met. 
+
+This class looks at the various ways we can convince a program to repeat certain instructions, doing the same thing multiple times, or changing variables on each iteration of the loop and getting different results each time.
