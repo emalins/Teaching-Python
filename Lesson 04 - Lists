@@ -1,0 +1,4 @@
+Variables hold your "stuff", but what if you've got loads of stuff to hold?
+What if you need to do the same operation on a whole load of variables and keep hold of the results?
+What if you need to access a specific character in a string or a specific variable?
+Lists are for exactly this purpose and they play very nicely with loops.
